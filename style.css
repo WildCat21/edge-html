@@ -27,7 +27,7 @@
 .btn1:hover {
   background-position: right center;
 }
-h1 {
+#hh {
   background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%)
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
