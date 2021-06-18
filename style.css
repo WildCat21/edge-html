@@ -28,7 +28,7 @@
   background-position: right center;
 }
 #h3 {
-  background-image: linear-gradient(red, black);
+  image: linear-gradient(red, black);
 }
 @import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 h2#jones {
