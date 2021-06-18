@@ -32,3 +32,8 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+#jones {
+  font-family: Bangers, sans-serif;
+  letter-spacing: 0.1em; background-image:
+    linear-gradient(red 40%, yellow 70%);
+}
